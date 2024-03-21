@@ -1,5 +1,10 @@
 # Resume Analyzer Documentation
 
+## Hosted Link
+
+The Resume Analyzer is hosted at [https://myresumeanalyzer.streamlit.app/](https://myresumeanalyzer.streamlit.app/). You can access it directly to analyze your resumes and job descriptions.
+
+
 ## Introduction
 
 The Resume Analyzer is a tool designed to assist in evaluating how well various resumes align with a specific job description. It simplifies the hiring process by automating the comparison of resumes against a job description, providing insights into candidate suitability. This approach note aims to provide a clear understanding of the functionality, usage, and underlying processes of the Resume Analyzer.
@@ -37,7 +42,3 @@ The Resume Analyzer employs several processes to perform the analysis effectivel
 The Resume Analyzer simplifies the hiring process by automating the comparison of resumes against a job description, providing valuable insights to recruiters or hiring managers. Its user-friendly interface and detailed result presentation make it an effective tool for evaluating candidate suitability.
 
 By following the steps outlined in this approach note, users can seamlessly utilize the Resume Analyzer to streamline their recruitment process and make informed hiring decisions.
-
-## Hosted Link
-
-The Resume Analyzer is hosted at [https://myresumeanalyzer.streamlit.app/](https://myresumeanalyzer.streamlit.app/). You can access it directly to analyze your resumes and job descriptions.
